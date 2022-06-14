@@ -1,2 +1,3 @@
-# SAGE Interactive plots _ Projectile Motion
- ffffff
+## SAGE Interactive plots _ Projectile Motion
+
+This code was created to allow for the creation of projectile motion interactive plots. A projectile is any object thrown into the atmosphere so that it falls under the effect of gravity. Applications : Basketball, launch of a rocket, .... 
